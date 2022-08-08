@@ -1,7 +1,7 @@
 # Cat-meow-classification
 Cat meow classifier
 
-<img src="https://raw.githubusercontent.com/colinbrandonpierce/Cat-meow-classification/blob/main/meow-harmonics.PNG" width="300" height="300" />
+<img src="[https://raw.githubusercontent.com/colinbrandonpierce/Cat-meow-classification/blob/main/meow-harmonics.PNG](https://raw.githubusercontent.com/colinbrandonpierce/Cat-meow-classification/main/meow-harmonics.PNG)" width="300" height="300" />
 <hr>
 <b>PROBLEM</b>
 What is your cat saying when it is home alone? This problem can be tackled with audio analysis and machine learning.
