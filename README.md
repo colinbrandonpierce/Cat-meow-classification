@@ -15,7 +15,7 @@ A standard approach to understand an audio file is to analyze its spectrogram, w
 <b>RESULTS</b><br>
 Many of the audio files were poorly captured and did not display clear harmonics as they should. Plotting our features showed no clear patterns, except perhaps that cats sometimes meow louder when isolated. All cats have different psychologies and can have similar meows in different situations, so a different approach is likely necessary to tackle this problem.
 
-<img src="https://raw.githubusercontent.com/colinbrandonpierce/Cat-meow-classification/main/3plot-features.png" width="360" height="320"/>
+<img src="https://raw.githubusercontent.com/colinbrandonpierce/Cat-meow-classification/main/3plot-features.png" width="360" height="340"/>
 
 [1] The algorithm recursively crawls neighbors starting from the loudest frequency in the spectrogram matrix. The assumption is that a meow can be understood with only the loudest harmonic.
 
